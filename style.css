@@ -1,6 +1,9 @@
 .margin {
-    position: absolute;
+    position:static;
     border: 1px;
     border-style: bold;
     border-color: aquamarine;
+}
+.display {
+    box-shadow: 4px;
 }
